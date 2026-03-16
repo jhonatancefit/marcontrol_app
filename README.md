@@ -90,7 +90,7 @@ marcontrol_app/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tuusuario/marcontrol_app.git
+git clone https://github.com/jhonatancefit/marcontrol_app
 cd marcontrol_app
 ```
 
@@ -109,11 +109,9 @@ pip install mysql-connector-python Pillow openpyxl reportlab tkcalendar
 Edite `config.py` con sus credenciales MySQL:
 ```python
 DB_CONFIG = {
-    'host': 'localhost',
     'user': 'root',
-    'password': 'su_password',
+    'password': '',
     'database': 'marcontrol',
-    'port': 3306
 }
 ```
 
