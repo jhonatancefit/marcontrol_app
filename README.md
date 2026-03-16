@@ -1,8 +1,5 @@
 # 🐟 MarControl — Sistema de Control Pesquero
 
-**Versión:** 1.0.0 | **Curso:** Profundización de Programación Orientada a Objetos  
-**Docente:** James Mosquera Rentería | **Jornada:** Noche
-
 ---
 
 ## 📋 Descripción
@@ -87,6 +84,9 @@ marcontrol_app/
 ---
 
 ## 🚀 Instalación
+
+### Base de datos
+https://github.com/jhonatancefit/marcontrol_app/blob/main/marcontrol.sql
 
 ### 1. Clonar el repositorio
 ```bash
@@ -185,9 +185,3 @@ El botón de cambio de tema está en la parte inferior del sidebar. El cambio se
 | `tkinter` | Interfaz gráfica (incluido en Python) |
 
 ---
-
-## 👤 Autor
-
-Desarrollado como proyecto integrador del módulo **"Profundización de la Programación Orientada a Objetos"**
-
-*Docente: James Mosquera Rentería — Jornada Noche*
